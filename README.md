@@ -2,6 +2,15 @@
 
 Лёгкая CRM-система для приёма и обработки заявок сервисного центра с уведомлениями и сменой статусов через Telegram-бота.
 
+## Интерфейс и работа сервиса
+
+### Веб-интерфейс (FastAPI + форма заявки)
+<img width="907" height="569" alt="image" src="https://github.com/user-attachments/assets/8362b761-202d-43a6-88c4-f037e543cdf9" />
+<img width="1061" height="431" alt="image" src="https://github.com/user-attachments/assets/3438b85f-8b5b-4b68-b5cc-952d21555f76" />
+
+### Уведомления в Telegram и CI/CD-деплой
+<img width="1230" height="943" alt="image" src="https://github.com/user-attachments/assets/018c42f1-76ff-4e1a-b398-c4a89ccecac8" />
+
 ## Стек
 
 - Python 3.11, FastAPI, Uvicorn, SQLite, httpx, python-dotenv
